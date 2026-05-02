@@ -40,7 +40,7 @@ The goal was to transform raw transactional data into actionable business insigh
 |---|---|
 | **Source** | Kaggle — Global SuperStore Dataset |
 | **Total Records** | 51,290 orders |
-| **Time Period** | 2011 – 2014 |
+| **Time Period** | 2022 – 2025 |
 | **Markets** | 7 (APAC, EU, US, LATAM, EMEA, Africa, Canada) |
 | **Regions** | 13 |
 | **Categories** | 3 (Technology, Furniture, Office Supplies) |
@@ -53,7 +53,7 @@ The goal was to transform raw transactional data into actionable business insigh
 ## 🔍 Key Insights Discovered
 
 ### 💰 Sales & Profitability
-- Total Sales grew **87%** from **$2.3M (2011) to $4.3M (2014)** — consistent YoY growth across all 4 years
+- Total Sales grew **87%** from **$2.3M (2022) to $4.3M (2025)** — consistent YoY growth across all 4 years
 - Profit grew even faster at **26.6% avg YoY** — indicating improving operational efficiency
 - Overall **Profit Margin = 11.62%** — healthy but with room for improvement
 
